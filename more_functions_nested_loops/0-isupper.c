@@ -4,7 +4,7 @@
  * _isupper - Confirm upper case
  * @x: The number to review
  * Return: 1 uppercase or 0 for anything else
- * /
+ */
 
 int _isupper(int x)
 
