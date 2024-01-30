@@ -1,4 +1,3 @@
-i5-main.c
 #include "main.h"
 
 /**
@@ -6,6 +5,7 @@ i5-main.c
  *
  * Return: Always 0.
 */
+
 int main(void)
 {
     more_numbers();
